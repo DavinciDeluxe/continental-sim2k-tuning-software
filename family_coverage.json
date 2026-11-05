@@ -2,8 +2,16 @@
   "family": "Continental SIM2K",
   "slug": "continental-sim2k",
   "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
-  "official_url": "https://www.davincideluxe.fr/continental-sim2k-tuning-software",
-  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "official_urls": [
+    "https://www.davincideluxe.fr/continental-sim2k-tuning-software",
+    "https://www.davincideluxe.org/continental-sim2k-tuning-software",
+    "https://www.davincideluxe.app/continental-sim2k-tuning-software",
+    "https://www.davincideluxe.software/continental-sim2k-tuning-software",
+    "https://www.davincideluxe.es/continental-sim2k-tuning-software",
+    "https://www.davincideluxe.de/continental-sim2k-tuning-software",
+    "https://www.davincideluxe.it/continental-sim2k-tuning-software",
+    "https://www.aesoftech.eu/continental-sim2k-tuning-software"
+  ],
   "matched_variants_count": 11,
   "brands": {
     "HYUNDAI": [
