@@ -1,0 +1,27 @@
+{
+  "family": "Continental SIM2K",
+  "slug": "continental-sim2k",
+  "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
+  "official_url": "https://www.davincideluxe.fr/continental-sim2k-tuning-software",
+  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "matched_variants_count": 11,
+  "brands": {
+    "HYUNDAI": [
+      "SIM2K",
+      "SIM2K-141",
+      "SIM2K-245",
+      "SIM2K-250"
+    ],
+    "KIA": [
+      "SIM2K",
+      "SIM2K-241",
+      "SIM2K-250",
+      "SIM2K-253",
+      "SIM2K-260",
+      "SIM2K-341"
+    ],
+    "CHEVROLET": [
+      "SIM2K-34VR"
+    ]
+  }
+}
