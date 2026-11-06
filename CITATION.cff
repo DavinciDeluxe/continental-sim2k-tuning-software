@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Continental SIM2K ECU Calibration Software — Hyundai, Kia & Genesis petrol & turbo-GDI ECU (SIM2K-140, 141, 240, 241, 250, 251, 260) (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/continental-sim2k-tuning-software"
+repository-code: "https://github.com/DavinciDeluxe/continental-sim2k-tuning-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
