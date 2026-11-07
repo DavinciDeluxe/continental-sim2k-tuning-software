@@ -1,10 +1,10 @@
-# Continental SIM2K ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.44)
+# Continental SIM2K ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Live ECU Page](https://img.shields.io/badge/Continental%20SIM2K-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/continental-sim2k-tuning-software)
 [![Portal .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/continental-sim2k-tuning-software)
 [![Portal .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/continental-sim2k-tuning-software)
 
-**Continental SIM2K** is Hyundai, Kia & Genesis petrol/T-GDI ECU family (SIM2K-140/141/240/241/250/251/260). **DaVinci Deluxe Cloud Edition (v1.0.44)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Continental SIM2K readouts**.
+**Continental SIM2K** is Hyundai, Kia & Genesis petrol/T-GDI ECU family (SIM2K-140/141/240/241/250/251/260). **DaVinci Deluxe Cloud Edition (v1.0.45)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Continental SIM2K readouts**.
 
 ## 📊 Live Continental SIM2K Variants Covered Across Brands
 
