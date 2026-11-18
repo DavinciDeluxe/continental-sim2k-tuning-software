@@ -10,8 +10,8 @@
 
 | Brand | Continental SIM2K Variants | Supported ECU Identifiers |
 | :--- | :---: | :--- |
-| **KIA** | 6 | `SIM2K`, `SIM2K-241`, `SIM2K-250`, `SIM2K-253`, `SIM2K-260`, `SIM2K-341` |
-| **HYUNDAI** | 4 | `SIM2K`, `SIM2K-141`, `SIM2K-245`, `SIM2K-250` |
+| **KIA** | 7 | `SIM2K`, `SIM2K-241`, `SIM2K-250`, `SIM2K-253`, `SIM2K-260`, `SIM2K-341`, `SIM2K-510` |
+| **HYUNDAI** | 5 | `SIM2K`, `SIM2K-141`, `SIM2K-245`, `SIM2K-250`, `SIM2K-510` |
 | **CHEVROLET** | 1 | `SIM2K-34VR` |
 
 👉 **[Open the full Continental SIM2K guide & test your file free at https://www.davincideluxe.fr/continental-sim2k-tuning-software →](https://www.davincideluxe.fr/continental-sim2k-tuning-software)**
