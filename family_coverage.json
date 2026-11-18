@@ -12,13 +12,14 @@
     "https://www.davincideluxe.it/continental-sim2k-tuning-software",
     "https://www.aesoftech.eu/continental-sim2k-tuning-software"
   ],
-  "matched_variants_count": 11,
+  "matched_variants_count": 13,
   "brands": {
     "HYUNDAI": [
       "SIM2K",
       "SIM2K-141",
       "SIM2K-245",
-      "SIM2K-250"
+      "SIM2K-250",
+      "SIM2K-510"
     ],
     "KIA": [
       "SIM2K",
@@ -26,7 +27,8 @@
       "SIM2K-250",
       "SIM2K-253",
       "SIM2K-260",
-      "SIM2K-341"
+      "SIM2K-341",
+      "SIM2K-510"
     ],
     "CHEVROLET": [
       "SIM2K-34VR"
